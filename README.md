@@ -4,9 +4,13 @@ Now is the time to show off all of the skills you have gained while here at Flat
 
 ## Friday of Module 4
 
-Time to start thinking about ideas. By Monday, come up with two ideas, and tell us about them in [this form ENTER FORM URL](). On Monday we will have a conversation with each student about adjusting the scope and choosing an idea that we know is doable in the time allotted and uses technologies that companies are looking for.
+Time to start thinking about ideas. By Monday, come up with two ideas, and tell us about them in [this form](https://goo.gl/forms/fqS2zidl2XJxRwRg2). On Monday we will have a conversation with each student about adjusting the scope and choosing an idea that we know is doable in the time allotted and uses technologies that companies are looking for.
 
 We will get back to you with which project idea to pursue by lunch on Monday.
+
+#### ACTION ITEMS
+
+ * Complete Project Proposal form by Monday morning - https://goo.gl/forms/fqS2zidl2XJxRwRg2
 
 ## Week 1
 
@@ -65,7 +69,7 @@ After project work, it's off to the races! Start breaking down your wireframes a
 ### Thursday
 
 This will be the first day of execution mode. The goal is by the end of Wednesday of week 2 to have a completed MVP. In an effort to hit that goal every day students must submit a daily check in. The 
-is located [here ENTER FORM URL]() and should only take 5 minutes to complete every morning.
+is located [here](https://goo.gl/forms/QJ6d4WNJxmWaBprK2) and should only take 5 minutes to complete every morning.
 
 We will use this information to understand which students need more help. 
 
@@ -73,7 +77,7 @@ This will also be the first day of dedicated project 1:1s with the Lead instruct
 
 ### Friday
 
-Friday will be another execution day. Some students will have 1:1s with the lead as well. Daily Check in form is here: ENTER FORM URL
+Friday will be another execution day. Some students will have 1:1s with the lead as well. Daily Check in form is here: https://goo.gl/forms/QJ6d4WNJxmWaBprK2
 
 In the afternoon we'll do a group standup with your instructor for everyone to share their current status and any challenges they are facing.
 
@@ -83,7 +87,7 @@ MVPs are due Wednesday and Concentrations begin on Thursday!
 
 ### Monday and Tuesday
 
-Execution and coding days! Daily check in form is here: ENTER FORM URL.
+Execution and coding days! Daily check in form is here: https://goo.gl/forms/QJ6d4WNJxmWaBprK2.
 
 In the afternoons students will have progress check ins with their instructors to be sure Wednesday will be a successful day!
 
